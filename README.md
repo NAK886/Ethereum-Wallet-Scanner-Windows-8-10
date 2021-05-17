@@ -42,8 +42,10 @@ Limitation / Full version?
 =============
 This software is limited to scan/check 2000 address per day freely, if you want to unlock the tool you can send me the equivalent of $25 or 20€ in bitcoin/ethereum to the following address :
 
--= Bitcoin address: bc1qst882e68t7ca475k0an3s95k67m7h0w6gge088
--= Ethereum address: 0x1d90CB5716591f6e3fa102B9bCE8EEcC34bC2dC8
+-= Bitcoin BTC address: bc1qst882e68t7ca475k0an3s95k67m7h0w6gge088
+-= Ethereum ETH address: 0x1d90CB5716591f6e3fa102B9bCE8EEcC34bC2dC8
+-= Stellar XLM address: GBIQS6W2KPWGX3YZ5PIBBSPSBMAYY522UGSVGRWYYH265QRSAN7KFFMU
+-= Cardano ADA address: addr1q84wx5xjsuuqq9g928d6ycq20fxlxxnyjxess90tp8dr8qh2udgd9pecqq2s25wm5fsq57jd7vdxfydnpq27kzw6xwpq6frxzz
 
 
 Send an email to " whitehatboy007@gmail.com " with your transaction link and DO NOT FORGET TO ADD YOUR ID code that you can find under the program menu ? --> About
