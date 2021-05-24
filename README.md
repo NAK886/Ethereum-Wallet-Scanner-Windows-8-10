@@ -6,7 +6,7 @@ This project was made for research purposes
   
 System Requirements
 --------------------
-Windows 8/10
+Windows 7/8/10
 .NET Framework 4.6
   
 How it work?
