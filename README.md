@@ -40,7 +40,7 @@ All wallet with balance are added to the results.txt file inside the program dir
   
 Limitation / Full version?  
 ==========================  
-This software is limited to scan/check 2000 address per day freely, if you want to unlock the tool you can send me the equivalent of $25 or 20€ in bitcoin/ethereum to the following address :  
+This software is limited to scan/check 2000 address per day freely, if you want to unlock the tool you can send me the equivalent of $25 or 20€ in bitcoin/ethereum/Stellar/Cardano to the following address :  
   
 -= Bitcoin BTC address: bc1qst882e68t7ca475k0an3s95k67m7h0w6gge088  
 -= Ethereum ETH address: 0x1d90CB5716591f6e3fa102B9bCE8EEcC34bC2dC8  
