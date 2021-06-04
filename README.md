@@ -51,14 +51,14 @@ This software is limited to scan/check 2000 address per day freely, if you want 
 Send an email to " whitehatboy007@gmail.com " with your transaction link and DO NOT FORGET TO ADD YOUR ID code that you can find under the program menu ? --> About  
 I will send you back your registration code, simply enter this code in the text zone below the ID code to fully unlock the software.  
   
-Regards
+Regards  
   
   
   
   
 History  
-
-Version 1.6 :	04/06/2021
-Version 1.5 :	24/05/2021
-Version 1.3 :	17/05/2021
-Version 1.0 :	04/02/2021
+  
+Version 1.6 :	04/06/2021  
+Version 1.5 :	24/05/2021  
+Version 1.3 :	17/05/2021  
+Version 1.0 :	04/02/2021  
