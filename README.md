@@ -16,13 +16,16 @@ You must create a free account on etherscan.io in order to have an API key.
 From an old laptop from 2015 you can get 70/90 address checked per second.  
 Check our youtube video to know how it work.  
   
-EWS have only two options!  
-==========================  
+EWS have only three options!  
+============================  
 1 - "Generate one Ethereum Wallet"  
 This button will generate one ethereum address with his private key (run offline, no internet, no network, feel free to use it for security purpose)  
-
+  
 2 - "CRACK"  
 This function will generate 20 ethereum wallets address and check their balance in bulk at a speed of 70/100 wallets per seconds if you have a good computer and internet connection.  
+  
+3 - "Search Specific ETH Address"  
+This function will allow you to search for a specific ETH Address  
   
   
 TO-DO Before starting  
@@ -58,7 +61,8 @@ Regards
   
 History  
   
-Version 1.6 :	04/06/2021  
-Version 1.5 :	24/05/2021  
-Version 1.3 :	17/05/2021  
-Version 1.0 :	04/02/2021  
+Version 1.7.1 :	15/07/2021  
+Version 1.6   :	04/06/2021  
+Version 1.5   :	24/05/2021  
+Version 1.3   :	17/05/2021  
+Version 1.0   :	04/02/2021  
